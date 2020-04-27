@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfbb6c2b-d2f2-49cf-9b07-4dcca42c59b0" name="Default Changelist" comment="" />
+    <list default="true" id="dfbb6c2b-d2f2-49cf-9b07-4dcca42c59b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_by_mysql/login_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/login_by_mysql/login_in.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,6 @@
   <component name="ProjectId" id="1W42iSIBJ1mt6y6r1emFwLqD8vQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -32,10 +34,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/git_setting_file" />
       <recent name="$PROJECT_DIR$/the_sql_statement" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.login_in (1)">
+  <component name="RunManager" selected="Python.sql_users">
     <configuration name="login_in (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="login_by_mysql" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,26 +123,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.login_in (1)" />
+      <item itemvalue="Python.login_in" />
+      <item itemvalue="Python.login_up" />
+      <item itemvalue="Python.sql_users" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.login_in (1)" />
         <item itemvalue="Python.sql_users" />
+        <item itemvalue="Python.login_in (1)" />
         <item itemvalue="Python.login_in" />
         <item itemvalue="Python.login_up" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$PROJECT_DIR$/../.subversion</configuration>
@@ -162,6 +159,11 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="602" y="100" key="#Inspections/0.23.1440.821@0.23.1440.821" timestamp="1578638243239" />
+    <state x="369" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579079474119">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579079474119" />
+    <state x="369" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1579075525858" />
     <state x="450" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578573827220">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -174,33 +176,34 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="527" y="358" key="Github.CreateGistDialog/0.23.1440.822@0.23.1440.822" timestamp="1578450632687" />
-    <state width="620" height="210" key="GridCell.Tab.0.bottom" timestamp="1578641185925">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1419" height="243" key="GridCell.Tab.0.bottom" timestamp="1579772440383">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578483684253" />
+    <state width="1419" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579772440383" />
     <state width="620" height="210" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1578641185925" />
     <state width="604" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578448281714" />
-    <state width="620" height="210" key="GridCell.Tab.0.center" timestamp="1578641185924">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1419" height="243" key="GridCell.Tab.0.center" timestamp="1579772440382">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578483684252" />
+    <state width="1419" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579772440382" />
     <state width="620" height="210" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1578641185924" />
     <state width="604" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1578448281713" />
-    <state width="620" height="210" key="GridCell.Tab.0.left" timestamp="1578641185924">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1419" height="243" key="GridCell.Tab.0.left" timestamp="1579772440382">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578483684251" />
+    <state width="1419" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579772440382" />
     <state width="620" height="210" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1578641185924" />
     <state width="604" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1578448281713" />
-    <state width="620" height="210" key="GridCell.Tab.0.right" timestamp="1578641185925">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1419" height="243" key="GridCell.Tab.0.right" timestamp="1579772440383">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578483684252" />
+    <state width="1419" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579772440383" />
     <state width="620" height="210" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1578641185925" />
     <state width="604" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1578448281714" />
-    <state x="229" y="73" key="SettingsEditor" timestamp="1578643438426">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="229" y="55" key="SettingsEditor" timestamp="1582963696082">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="229" y="55" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582963696082" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1578643438426" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1578448472319" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578483565118">
