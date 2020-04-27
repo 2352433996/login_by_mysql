@@ -1,4 +1,5 @@
-Git下载地址：https://git-scm.com/downloads
+Git 下载地址：https://git-scm.com/downloads
+origin (起源)  master主）
 
 安装简介：
 https://www.cnblogs.com/xiaoleiel/p/8300944.html
@@ -16,8 +17,19 @@ $ ssh -T git@github.com
 创建本地用户名称(提交代码便于识别提交者)
 $ git config --global user.name "jie"
 $ git config --global user.email "2352433996@qq.com"
+
+Git仓库名称
+python 		origin
+service 	service
+crawlers 	crawlers
+
 添加远程地址：
 git remote add origin git@github.com:2352433996/python.git
+git remote add origin git@github.com:2352433996/service.git
+查看当前所连接的默认git地址
+git remote -v
+移除当前连接(origin)
+git remote -v origin
 
 第一次提交：
 $ git add README
@@ -55,4 +67,5 @@ $ git branch -d test
 $ git branch -d test test1
 代码为合并、强制删除分支
 $ git branch -D test
-
+提交代码  （-f 强制提交，轻易不得提交）
+git push -f service master
